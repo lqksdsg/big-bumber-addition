@@ -1,2 +1,2 @@
-# big-bumber-addition
+# big-number-addition
 Add big numbers using c++
